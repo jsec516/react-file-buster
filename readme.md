@@ -1,2 +1,2 @@
-### React File Buster
-# pragmatic file uploader for react application
+# React File Buster
+### pragmatic file uploader for react application
